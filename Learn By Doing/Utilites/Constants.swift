@@ -6,9 +6,3 @@
 //
 
 import SwiftUI
-
-//MARK: - UI
-var gradientColors: Gradient {
-    return Gradient(colors: [Color("Color01"), Color("Color02")])
-}
-
