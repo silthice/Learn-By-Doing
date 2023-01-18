@@ -6,3 +6,7 @@
 //
 
 import SwiftUI
+
+
+//MARK: - UX
+var hapticImpact = UIImpactFeedbackGenerator(style: .heavy)
